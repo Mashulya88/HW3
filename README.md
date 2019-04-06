@@ -3,8 +3,9 @@
 4)
 ![](got1.png)
 
-![](got2.PNG)
+![](got2.png)
 
-![](got3.PNG)
+![](got3.png)
 
-![](ex4.PNG)
+![](got5(2).png)
+![](got(1).png)
