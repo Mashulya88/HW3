@@ -1,10 +1,10 @@
 # HW3
 
 4)
-![](KK1.png)
+![](got1.png)
 
-![](ex2.PNG)
+![](got2.PNG)
 
-![](ex3.PNG)
+![](got3.PNG)
 
 ![](ex4.PNG)
