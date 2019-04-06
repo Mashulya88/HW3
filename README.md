@@ -7,5 +7,5 @@
 
 ![](got3.png)
 
-![](got5(2).png)
-![](got(1).png)
+![](hush.png)
+![](kiss.png)
