@@ -13,4 +13,10 @@
 6)
 ![](kiss.png)
 
-я устала от цг
+Работа с корпусами НКРЯ и Google Ngrams:
+![](fak1.png)
+![](kl1.PNG)
+![](fak2.png)
+![](kl2.PNG)
+![](fak3.png)
+![](kl3.PNG)
